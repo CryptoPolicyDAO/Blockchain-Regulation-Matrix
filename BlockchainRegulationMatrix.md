@@ -381,6 +381,358 @@ Within each layer, are the following categories to be responded to and filled in
 | **Cons to lack of regulation** |Potential risks of concentration and control by certain countries | |Potential displacement of development activities to more permissive jurisdictions | Lack of standardization, Concentration of mining power, Dispute challenges | Transaction delays or fees, Privacy concerns, Inaccurate or irreversible transactions | Insecure practices, Fraudulent schemes, Misuse of blockchain | Lack of consumer protection, Vulnerability to financial crises, Regulatory uncertainty | Lack of consumer protection, Regulatory uncertainty, Lack of standards | Insecure NFTs, Ownership disputes, Limited economic growth | Insecure NFTs, Ownership disputes, Limited economic growth | Lack of accountability, Data privacy concerns, Vulnerability to vulnerabilities | Lack of standards, Vulnerability to vulnerabilities, Lack of recourse | Lack of standards, Vulnerability to vulnerabilities, Lack of recourse | Proliferation of insecure DeFi platforms and protocols, Lack of standardized security practices leading to increased risks, Difficulty in addressing disputes and liabilities arising from vulnerabilities, Undermining public trust and confidence in DeFi due to frequent security incidents|   Lack of standardized security practices in DeFi, Vulnerability to fraudulent schemes targeting users, Difficulty in resolving cross-border disputes, Undermining public trust in DeFi |  Lack of standardized security and quality practices in fiat-crypto intermediaries, Vulnerability to fraudulent schemes targeting users seeking fiat access, Difficulty in addressing cross-border disputes and regulatory challenges, Potential exposure to money laundering and other illicit activities, Not ensuring a fair competitive landscape |
 
 
+### Decentralized Aspects to the Blockchain Stack
+
+- Electricity
+  - Government Concerns
+    - Protecting Consumers from loss of use due to a geopolitical situation
+    - Amount of electricity required to maintain the blockchain and the amount per transaction
+  - Consumer Risks
+    - Potential geopolitical risks leading to electricity access disruptions
+  - Cons to Over-regulation
+  - Cons to lack of regulation
+    - Potential risks of concentration and control by certain countries
+  - Does blockchain technology currently exist to fulfill these obligations, and if so, what is it?
+- Settlement Layer
+  - Government Concerns
+    - Not being able to update / edit fraudulent transactions
+    - Not being able to identify immoral activity that could be deemed fraudulent
+  - Consumer Risks
+    - Lack of due diligence
+    - Security and attacks
+  - Cons to Over-regulation
+  - Cons to lack of regulation
+  - Does blockchain technology currently exist to fulfill these obligations, and if so, what is it?
+- Node / Validator
+  - Government Concerns
+    - Not reporting income
+    - Fault tolerant consensus
+    - Decryption Standards
+  - Consumer Risks
+  - Cons to Over-regulation
+  - Cons to lack of regulation
+    - Potential displacement of development activities to more permissive jurisdictions
+  - Does blockchain technology currently exist to fulfill these obligations, and if so, what is it?
+- Consensus Layer
+  - Computation Intensive Based
+    - Government Concerns
+      - Amount of electricity being used comparatively to similar technology that uses less
+      - Fault tolerant consensus
+      - Decryption Standards
+    - Consumer Risks
+      - High energy consumption leading to environmental concerns
+      - Potential centralization of mining power
+      - Vulnerability to 51% attacks
+    - Cons to Over-regulation
+      - Stifling innovation and development of energy-efficient consensus mechanisms
+      - Driving blockchain projects to operate in jurisdictions with more favorable regulations
+      - Disincentivizing network participation due to excessive compliance requirements
+    - Cons to lack of regulation
+      - Lack of standardization leading to security vulnerabilities
+      - Potential for concentration of power among mining entities
+      - Difficulty in addressing fraudulent or malicious activities
+    - Does blockchain technology currently exist to fulfill these obligations, and if so, what is it?
+      - Proof of Stake (PoS) consensus algorithms that require significantly less energy
+      - Byzantine Fault Tolerance (BFT) protocols ensuring fault tolerance
+      - Advanced encryption techniques for secure transactions and data privacy
+  - Capabilities Based
+    - Government Concerns
+      - Upgrading consumer security standards
+    - Consumer Risks
+      - Insufficient protection of user data and privacy
+      - Potential exposure to smart contract vulnerabilities
+      - Lack of recourse in case of unauthorized transactions
+    - Cons to Over-regulation
+      - Hampering innovation by imposing rigid security standards
+      - Reducing accessibility and inclusivity by raising entry barriers
+      - Limiting the potential of decentralized applications (dApps) due to excessive control
+    - Cons to lack of regulation
+      - Proliferation of insecure smart contracts leading to financial losses
+      - Erosion of consumer trust and confidence in blockchain applications
+      - Difficulty in addressing cross-border disputes and fraudulent activities
+    - Does blockchain technology currently exist to fulfill these obligations, and if so, what is it?
+  - Voting Based
+    - Government Concerns
+      - Ensuring fair and transparent voting processes
+      - Preventing voter fraud and manipulation
+      - Addressing potential collusion or vote-buying
+    - Consumer Risks
+      - Lack of anonymity in voting leading to privacy concerns
+      - Vulnerability to Sybil attacks or stake concentration
+      - Complexity of verifying the legitimacy of votes
+    - Cons to Over-regulation
+      - Overly strict regulations hindering the flexibility and innovation of voting mechanisms
+      - Potential centralization of voting power due to stringent requirements
+      - Difficulty in adapting to rapidly changing technological advancements
+    - Cons to lack of regulation
+      - Vulnerability to malicious attacks on the voting process
+      - Lack of accountability and transparency in voting results
+      - Challenges in addressing disputes and irregularities
+    - Does blockchain technology currently exist to fulfill these obligations, and if so, what is it?
+- Transaction Layer
+  - Government Concerns
+    - Ensuring traceability and transparency of transactions
+    - Preventing illegal activities such as money laundering and fraud
+    - Addressing cross-border transaction challenges and regulatory compliance
+    - An anonymous public ledger inhibits appropriate recordkeeping
+  - Consumer Risks
+    - Exposure to potential transaction delays or fees
+    - Privacy concerns related to transaction history being publicly accessible
+    - Risk of inaccurate or irreversible transactions
+  - Cons to Over-regulation
+    - Stifling innovation and experimentation with new transaction models
+    - Restricting financial inclusion by imposing excessive compliance requirements
+    - Hampering the usability and efficiency of blockchain transactions
+  - Cons to lack of regulation
+    - Increased susceptibility to fraudulent or malicious transactions
+    - Difficulty in resolving disputes related to unauthorized or erroneous transactions
+    - Lack of consumer protection and accountability
+  - Does blockchain technology currently exist to fulfill these obligations, and if so, what is it?
+- On-chain Data Storage
+  - Government Concerns
+    - Storage space mapping
+    - Data sovereignty and jurisdictional challenges in a decentralized environment
+    - Ensuring compliance with data protection and privacy regulations
+    - Addressing the potential use of blockchain for illegal or illicit data storage
+  - Consumer Risks
+    - Exposure of sensitive or personal data to public scrutiny
+    - Risk of data loss or corruption due to the immutability of blockchain
+    - Challenges in managing data access and permissions in a decentralized system
+  - Cons to Over-regulation
+    - Impeding the adoption of blockchain for legitimate and innovative data storage use cases
+    - Limiting the potential of decentralized applications (dApps) requiring data storage
+    - Inhibiting data interoperability and portability across different blockchain networks
+  - Cons to lack of regulation
+    - Lack of standardized data storage practices leading to security vulnerabilities
+    - Difficulty in addressing disputes related to ownership and control of stored data
+    - Potential misuse of blockchain for storing illegal or harmful content
+- Asset Layer
+  - Stablecoins
+    - Government Concerns
+      - Ensuring stability and value preservation of stablecoins
+      - Preventing money laundering and illegal transactions
+      - Are stablecoins defined correctly in programming terms
+      - The effects of internal inflation based on the unlimited burning / minting mechanisms of popular stables
+      - Addressing potential systemic risks from widespread stablecoin adoption
+      - Does crypto transaction provenance equally replace not having serial numbers on gov't released stablecoins?
+    - Consumer Risks
+      - Risk of stablecoin issuer insolvency or mismanagement
+      - Lack of transparency in stablecoin reserves and collateral
+      - Potential loss of value due to changes in underlying collateral
+      - Irrevocability of fraudulent transactions
+    - Cons to Over-regulation
+      - Hindering the growth and innovation of stablecoin use cases
+      - Restricting accessibility and availability of stablecoin services
+      - Imposing barriers for startups and new entrants in the stablecoin market
+    - Cons to lack of regulation
+      - Lack of consumer protection and accountability in stablecoin issuance
+      - Vulnerability to financial crises or market manipulation
+      - Difficulty in addressing crises or irregularities
+- Asset Layer
+  - Fungible Tokens (erc20, etc)
+    - Government Concerns
+      - Ensuring regulatory compliance for token issuers and users
+      - Preventing money laundering, fraud, and illicit activities
+      - Addressing tax implications of token transactions
+    - Consumer Risks
+      - Lack of transparency in token issuance and circulation
+      - Potential loss of value due to market volatility
+      - Vulnerability to token-related scams and phishing attacks
+    - Cons to Over-regulation
+      - Stifling innovation and hindering token-based business models
+      - Impeding accessibility and inclusivity by imposing strict barriers
+      - Hampering the growth of decentralized finance (DeFi) platforms
+    - Cons to lack of regulation
+      - Lack of investor protection and accountability
+      - Increased susceptibility to fraudulent token projects
+      - Difficulty in resolving disputes related to token ownership and transactions
+- Non-Fungible Tokens (erc721)
+  - Government Concerns
+    - Ensuring legal ownership and transfer of digital assets
+    - Addressing copyright and intellectual property rights in NFTs
+    - Preventing illicit use of NFTs for money laundering or illegal activities
+  - Consumer Risks
+    - Lack of clarity in NFT ownership and licensing rights
+    - Vulnerability to NFT theft or unauthorized duplication
+    - Potential exposure to fraudulent or counterfeit NFTs
+  - Cons to Over-regulation
+    - Restricting creativity and innovation in the NFT space
+    - Hampering the growth of art, gaming, and collectibles industries
+    - Limiting accessibility and affordability of NFTs
+  - Cons to lack of regulation
+    - Lack of legal recourse for NFT disputes and infringements
+    - Vulnerability to scams and fraudulent NFT projects
+    - Difficulty in addressing cross-border NFT transactions and issues
+- Exchange Layer
+  - Government Concerns
+    - Ensuring compliance with anti-money laundering (AML) and know your customer (KYC) regulations
+    - Preventing fraudulent activities and market manipulation on decentralized exchanges (DEXs)
+    - Addressing cross-border transaction challenges and regulatory harmonization
+  - Consumer Risks
+    - Lack of investor protection on DEXs
+    - Potential exposure to trading platform hacks and theft of funds
+    - Difficulty in resolving disputes related to trading activities
+  - Cons to Over-regulation
+    - Hampering accessibility and ease of use of DEXs
+    - Limiting financial inclusion by imposing excessive compliance requirements
+    - Hindering the growth of decentralized trading ecosystems
+  - Cons to lack of regulation
+    - Increased susceptibility to fraudulent or malicious trading activities
+    - Lack of transparency and accountability on DEXs
+    - Difficulty in enforcing measures against market manipulation
+- Protocol Layer
+  - Government Concerns
+    - Ensuring the interoperability and compatibility of different blockchain protocols
+    - Addressing potential risks and vulnerabilities in protocol design and implementation
+    - Balancing the benefits of open protocols with the need for security and stability
+  - Consumer Risks
+    - Exposure to protocol-level attacks, such as 51% attacks or consensus vulnerabilities
+    - Risk of loss of assets due to protocol bugs or vulnerabilities
+    - Lack of recourse for protocol-related disputes and issues
+  - Cons to Over-regulation
+    - Inhibiting protocol innovation and experimentation
+    - Limiting the potential of blockchain technology to enable diverse use cases
+    - Hampering cross-chain interoperability and collaboration
+  - Cons to lack of regulation
+    - Increased susceptibility to protocol-level attacks and vulnerabilities
+    - Lack of accountability and standards in protocol design and implementation
+    - Difficulty in addressing cross-border protocol-related disputes and regulatory challenges
+- Application Layer
+  - Government Concerns
+    - Ensuring compliance of decentralized applications (dApps) with existing regulations
+    - Addressing potential legal and ethical challenges posed by dApps' functionalities
+    - Balancing the benefits of decentralized applications with the need for consumer protection
+  - Consumer Risks
+    - Exposure to fraudulent or malicious dApps
+    - Lack of transparency in dApp operations and data usage
+    - Potential infringement of intellectual property rights through decentralized applications
+  - Cons to Over-regulation
+    - Stifling innovation and creativity in dApp development
+    - Limiting the growth of decentralized ecosystems and solutions
+    - Impeding the potential of blockchain technology to revolutionize various industries
+  - Cons to lack of regulation
+    - Increased likelihood of insecure and unreliable dApps
+    - Lack of standardized practices for dApp development and operations
+    - Difficulty in addressing cross-border disputes and regulatory challenges related to dApps
+- IPFS (if used)
+  - Government Concerns
+    - Addressing potential illegal content distribution on IPFS
+    - Ensuring data privacy and security on the IPFS network
+    - Compatibility with existing data protection and censorship regulations
+  - Consumer Risks
+    - Exposure to illegal or harmful content on the IPFS network
+    - Lack of mechanisms to report and remove malicious content
+    - Potential compromise of sensitive data stored on IPFS
+  - Cons to Over-regulation
+    - Stifling innovation and hindering the growth of decentralized content distribution
+    - Limiting the potential of IPFS for secure and censorship-resistant data storage
+    - Impeding cross-border data sharing and access to information
+  - Cons to lack of regulation
+    - Difficulty in addressing illegal or malicious content on the IPFS network
+    - Lack of accountability and mechanisms for content takedown
+    - Challenges in enforcing data protection and privacy rights
+- Internet Browser
+  - Government Concerns
+    - Ensuring compliance with online advertising regulations
+    - Addressing potential cybersecurity threats and malicious content distribution
+    - Balancing freedom of expression with prevention of illegal activities
+  - Consumer Risks
+    - Exposure to malicious websites and phishing attacks
+    - Lack of transparency in online advertising and data collection
+    - Potential privacy violations through browser tracking and data surveillance
+  - Cons to Over-regulation
+    - Inhibiting user experience and limiting browser functionality
+    - Impeding the development of privacy-focused browsing solutions
+    - Curtailing access to information and online services
+  - Cons to lack of regulation
+    - Vulnerability to online threats and cyberattacks
+    - Lack of accountability and transparency in browser practices
+    - Challenges in addressing cross-border cybercrime and jurisdictional issues
+- Developer
+  - Government Concerns
+    - Ensuring software development standards and best practices
+    - Addressing potential vulnerabilities and security risks in decentralized applications (dApps)
+    - Balancing innovation with consumer protection and security
+  - Consumer Risks
+    - Exposure to insecure and vulnerable dApps
+    - Risk of financial loss or theft due to dApp exploits
+    - Lack of recourse for fraudulent or malicious dApp behavior
+  - Cons to Over-regulation
+    - Hindering developer creativity and flexibility in dApp design
+    - Impeding the growth of the decentralized application ecosystem
+    - Limiting the potential of blockchain technology for solving real-world challenges
+  - Cons to lack of regulation
+    - Increased likelihood of insecure and unreliable dApps
+    - Lack of standardized security practices and vulnerability assessments
+    - Difficulty in addressing cross-border disputes involving dApps
+- Programming Language Auditor
+  - Government Concerns
+    - Ensuring the security and reliability of programming languages used in blockchain development
+    - Addressing potential vulnerabilities and coding errors in smart contracts
+    - Balancing regulatory oversight with developer autonomy and innovation
+  - Consumer Risks
+    - Exposure to smart contract bugs, vulnerabilities, and exploits
+    - Risk of financial loss or fraud due to insecure programming languages
+    - Lack of accountability for negligent or malicious programming practices
+  - Cons to Over-regulation
+    - Stifling programming language innovation and flexibility
+    - Impeding the adoption of new and efficient blockchain development languages
+    - Limiting the potential of blockchain technology to revolutionize various industries
+  - Cons to lack of regulation
+    - Increased likelihood of insecure and unreliable programming languages
+    - Lack of standardized security practices and auditing procedures
+    - Difficulty in addressing disputes and losses caused by faulty smart contracts
+- DeFi Architecture Security
+  - Government Concerns
+    - Ensuring the security and stability of decentralized finance (DeFi) protocols
+    - Addressing potential risks and vulnerabilities in DeFi smart contracts and platforms
+    - Balancing user protection with the benefits of open and permissionless financial services
+  - Consumer Risks
+    - Exposure to DeFi protocol hacks, exploits, and vulnerabilities
+    - Risk of financial loss or theft due to insecure DeFi applications
+    - Lack of accountability for faulty or malicious DeFi architecture
+  - Cons to Over-regulation
+    - Hampering the growth and innovation of the DeFi ecosystem
+    - Impeding the accessibility of decentralized financial services to underserved populations
+    - Limiting the potential of blockchain technology to reshape the financial landscape
+  - Cons to lack of regulation
+    - Increased likelihood of insecure and unreliable DeFi protocols
+    - Lack of standardized security practices and auditing mechanisms in DeFi
+    - Difficulty in addressing cross-border DeFi-related disputes and losses
+- DeFi Architecture Standards / Auditor
+  - Government Concerns
+    - Ensuring the establishment of robust industry standards for DeFi protocols and architecture
+    - Addressing potential conflicts of interest and biases in third-party DeFi audits
+    - Balancing the benefits of self-regulation with the need for government oversight
+  - Consumer Risks
+    - Lack of clarity and transparency in DeFi project audits and standards
+    - Potential false sense of security from third-party audits
+    - Difficulty in assessing the reliability and accuracy of DeFi audits
+  - Cons to Over-regulation
+    - Stifling innovation and creativity in DeFi development and design
+    - Impeding the growth of decentralized financial markets and services
+    - Limiting the potential of blockchain technology to enable open and transparent financial systems
+  - Cons to lack of regulation
+    - Increased susceptibility to faulty or biased DeFi audits and standards
+    - Lack of accountability and recourse for substandard DeFi projects
+    - Difficulty in addressing cross-border DeFi disputes and regulatory challenges
+- Fiat Onboarding / Offboarding Access
+  - Government Concerns
+    - Ensuring compliance with anti-money laundering (AML) and know your customer (KYC) regulations for fiat-to-crypto and crypto-to-fiat transactions
+    - Addressing potential risks associated with onboarding and offboarding funds between traditional financial systems and blockchain networks
+    - Balancing consumer privacy with the need to prevent illicit financial activities
+  - Consumer Risks
+    - Delays and complications in fiat-to-crypto and crypto-to-fiat transactions due to regulatory hurdles
+    - Exposure to fraudulent schemes and scams related to fiat onboarding and offboarding
+    - Potential infringement on individual privacy and financial data protection
+  - Cons to Over-regulation
+    - Hampering accessibility and inclusivity by imposing excessive verification requirements
+    - Limiting the seamless integration of traditional financial services with blockchain-based systems
+    - Inhibiting the growth of peer-to-peer and cross-border transactions
+  - Cons to lack of regulation
+    - Increased susceptibility to money laundering, terrorist financing, and other illicit activities
+    - Lack of accountability and oversight in fiat-crypto conversion processes
+    - Difficulty in addressing cross-border disputes and regulatory challenges related to fiat onboarding and offboarding
 
  
 
