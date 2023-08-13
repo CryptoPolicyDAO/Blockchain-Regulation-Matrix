@@ -1,7 +1,7 @@
 ## The Blockchain Regulation Matrix
 
 ### Purpose and Objective
-1. To create a matrix of the blockchain stack that outlines the rationale to regulate the blockchain stack from the perspective of centralized or decentralized protocols.
+1. To create a matrix of the blockchain stack that outlines the rationale to regulate the blockchain stack in regards to centralized and decentralized protocols.
 2. To highlight areas of concern for the Howie test and whether or not it can have any weight for a token being a security or commodity.
 3. Though the most important goel is to identify areas where blockchain technology can be built that will fulfil the ethos of the blockchain while remaining regulatory compliant.
 
